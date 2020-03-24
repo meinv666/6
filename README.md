@@ -24,7 +24,7 @@ Program function is introduced:
 + -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- +
 Clone and single generic domain name one basic difference of clone
 + -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- +
-2. Single domain version support unlimited under different target stood cloning to their secondary domain name, such as news.qq.com = = > xinwen. Your domain name. Com | soft.baidu.com = = > ruanjian. Your domain name. Com
+2. Single domain version support unlimited under different target stood cloning to their secondary domain name, such as https://news.cahe.xyz/ = = > xinwen. Your domain name. Com | https://soft.cahe.xyz/ = = > ruanjian. Your domain https://cahe.xyz/
 3. Version only need to set up a generic domain name, clone all secondary domain name (domain generic parsing support required), how many times how many secondary single domain name will be set.
 + -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- +
 Technical support
