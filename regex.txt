@@ -1,0 +1,20 @@
+<!--(.*)-->[to][and]<script删除这几个字可以过滤全部脚本(.*)</script>[to][and]<div id="qrcode"></div>[to][and]<div id="qrcode">(.*)</div>[to][and]<div id="g-hd-nav">(.*)</div>[to][and]<div id="g-hd-inner">(.*)</div>[to][and]<div id="g-hd">(.*)</div>[to]
+[and]<div class="user-item">(.*)</div>[to][and]<div id="J-not-login">(.*)</div>[to][and]<div class="user" id="user_info">(.*)</div>[to][and]<div id="g-hd-tools">(.*)</div>[to][and]<div class=rewardmodbk>(.*)换一批</a> </div> </div>[to]
+[and]<div class="logo fl">(.*)</div>[to]<div class="fl" style="padding-right:30px"><a href="/"><img src="/images/logo.png"></a></div>
+[and]<div id=nav>(.*)</div>[to]<div id=nav>
+	<div class=wrap>
+		<ul class=nav>
+			<li class=active ><a href="/">首页</a></li>
+			<li><a href="#" target=_blank>自定义菜单1</a></li>
+			<li><a href="#" target=_blank>自定义菜单2</a></li>
+			<li><a href="#" target=_blank>自定义菜单3</a></li>
+			<li><a href="#" target=_blank>自定义菜单4</a></li>
+			<li><a href="#" target=_blank>自定义菜单5</a></li>
+		</ul>
+		<a href="http://www.phpcaiji.com/" target=_blank  class=hotmsg><b>免费也能获取授权码</b></a>
+	</div>
+[and]<div class="link-box">(.*)</div>[to]
+[and]<div id=footer>(.*)</div>[to]
+<div id=footer>
+<div class="wrap">© 2016 Powered by PHPcaiji.com design Jeff</div>
+[and]<div id=bnbtm(.*)<div id=footer>[to]<div id=footer>[and]<link rel="shortcut icon(.*)>[to]
